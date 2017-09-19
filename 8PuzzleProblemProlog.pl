@@ -1,3 +1,5 @@
+%8-Puzzle Problem in Prolog
+
 :- dynamic visited/9.
 
 solve(0,1,3,4,2,5,7,8,6).
